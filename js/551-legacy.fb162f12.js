@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdemo1"]=self["webpackChunkdemo1"]||[]).push([[551],{73551:function(e,n,l){l.r(n),l.d(n,{default:function(){return f}});var u=function(){var e=this,n=e.$createElement,l=e._self._c||n;return l("div",[e._v("这是商品管理页面")])},t=[],r={name:"Mall"},a=r,c=l(1001),s=(0,c.Z)(a,u,t,!1,null,null,null),f=s.exports}}]);
+//# sourceMappingURL=551-legacy.fb162f12.js.map
